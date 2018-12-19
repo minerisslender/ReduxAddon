@@ -1,0 +1,11 @@
+"elevatorredux"
+{
+	"base"		"base"
+	"title"		"Elevator Reudx"
+	"maps"		"^elevator_"
+	"menusystem"	"1"
+
+	"settings"
+	{
+	}
+}
