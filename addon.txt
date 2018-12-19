@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"            "Elevator Redux Base"
+	"version"         "0.01"
+	"up_date"         "adddate"
+	"author_name"     "F&T Servers"
+	"author_url"      "https://fandtservers.mistforums.com/"
+}
